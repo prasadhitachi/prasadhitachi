@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Results-driven Information Technology executive with 20+ years of experience. Working in all aspects of the software development lifecycle. Devise and implement best practices and process methodologies to ensure the on time and within budget completion of high quality IT deliverables. Leverage strong communication and interpersonal skills to cultivate strong working relationships with clients, Customer Success, vendors and offshore partners. Build and spearhead top-performing virtual teams, providing the hands-on leadership, strategic planning, training and support needed to meet and exceed corporate goals and quality objectives.
 
 <!--
 **prasadhitachi/prasadhitachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
